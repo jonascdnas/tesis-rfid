@@ -1,0 +1,11 @@
+#Network Parameters for Reader
+reader_ip_address = 192.168.1.100
+username = alien
+password = password
+port = 23
+#
+reader_upgrade_address = http://192.168.1.100/firmware/
+tcp_listner_address = 192.168.1.100
+tcp_listner_port = 23
+udp_listner_address = localhost
+udp_listner_port =  1690

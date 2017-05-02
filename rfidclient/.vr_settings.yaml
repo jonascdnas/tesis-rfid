@@ -1,0 +1,21 @@
+--- !ruby/object:VR_ENV
+vr_yaml_file: "/home/jonas/visualruby/rfidclient/.vr_settings.yaml"
+width: 875
+height: 716
+panel_pos: 255
+notebook_panel_position: 399
+run_command_line: ruby main.rb
+open_files:
+- "/home/jonas/visualruby/rfidclient/src/MyClass.rb"
+- "/home/jonas/visualruby/rfidclient/src/lib/alienconnection.rb"
+open_folders:
+- "/home/jonas/visualruby/rfidclient"
+- "/home/jonas/visualruby/rfidclient/src"
+current_file: "/home/jonas/visualruby/rfidclient/src/lib/alienconnection.rb"
+current_line: 113
+rdoc_command_line: rdoc -x README
+browser: firefox
+backup_path: "/home/eric"
+tab_spaces: 2
+glade_path: glade-3
+font_name: Monospace 10

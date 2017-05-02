@@ -31,6 +31,7 @@ INSTALLED_APPS = (
     'rest_framework',
     'bootstrap3',
     'access',
+    'accesos.apps.AccesosConfig',
     'commons',
     'graphos',
 )
@@ -81,7 +82,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'es-ES'
 
-TIME_ZONE = 'Atlantic/Canary'
+TIME_ZONE = 'Mexico/General'
 
 USE_I18N = True
 
